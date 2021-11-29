@@ -1,4 +1,4 @@
-# Diabetes-On-All-Default-Model-
+# Diabetes-DataSet-On-All-Default-Model-
 - Perform EDA & Preprocessing.
 - Separation Of X and Y.
 - Train Test Split.
